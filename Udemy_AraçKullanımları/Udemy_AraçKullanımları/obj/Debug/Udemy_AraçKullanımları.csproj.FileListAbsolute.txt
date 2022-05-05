@@ -1,0 +1,11 @@
+D:\C# N.Y\Udemy_AraçKullanımları\Udemy_AraçKullanımları\bin\Debug\Udemy_AraçKullanımları.exe.config
+D:\C# N.Y\Udemy_AraçKullanımları\Udemy_AraçKullanımları\bin\Debug\Udemy_AraçKullanımları.exe
+D:\C# N.Y\Udemy_AraçKullanımları\Udemy_AraçKullanımları\bin\Debug\Udemy_AraçKullanımları.pdb
+D:\C# N.Y\Udemy_AraçKullanımları\Udemy_AraçKullanımları\obj\Debug\Udemy_AraçKullanımları.csproj.AssemblyReference.cache
+D:\C# N.Y\Udemy_AraçKullanımları\Udemy_AraçKullanımları\obj\Debug\Udemy_AraçKullanımları.csproj.SuggestedBindingRedirects.cache
+D:\C# N.Y\Udemy_AraçKullanımları\Udemy_AraçKullanımları\obj\Debug\Udemy_AraçKullanımları.Form1.resources
+D:\C# N.Y\Udemy_AraçKullanımları\Udemy_AraçKullanımları\obj\Debug\Udemy_AraçKullanımları.Properties.Resources.resources
+D:\C# N.Y\Udemy_AraçKullanımları\Udemy_AraçKullanımları\obj\Debug\Udemy_AraçKullanımları.csproj.GenerateResource.cache
+D:\C# N.Y\Udemy_AraçKullanımları\Udemy_AraçKullanımları\obj\Debug\Udemy_AraçKullanımları.csproj.CoreCompileInputs.cache
+D:\C# N.Y\Udemy_AraçKullanımları\Udemy_AraçKullanımları\obj\Debug\Udemy_AraçKullanımları.exe
+D:\C# N.Y\Udemy_AraçKullanımları\Udemy_AraçKullanımları\obj\Debug\Udemy_AraçKullanımları.pdb
